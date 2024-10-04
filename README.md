@@ -33,4 +33,4 @@
 - > Gallery : `Pictures of special programs, and outreaches` : `For security reasons we can ensure users create accounts before being access to the gallery if pictures of children would be put there`
 
 # Use Case
-https://github.com/jjacobstech/NCC/blob/main/Use%20Case.jpg
+![NCC Website Use Case](https://github.com/user-attachments/assets/c00ea762-7a9e-4daa-ade8-636b36ddb7c7)

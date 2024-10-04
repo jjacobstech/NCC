@@ -31,3 +31,6 @@
 
 # **Church Directory*
 - > Gallery : `Pictures of special programs, and outreaches` : `For security reasons we can ensure users create accounts before being access to the gallery if pictures of children would be put there`
+
+# Use Case
+https://github.com/jjacobstech/NCC/blob/main/Use%20Case.jpg
